@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# E-com Admin application
+ 
+The complete E-com  has 3 application:
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Client side application - Next js (This)
+- Admin application - Next js
+- Backend application - Node js
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Features
 
-To learn more about Next.js, take a look at the following resources:
+- Add to wishlist
+- Add to cart
+- Signin / Signup
+- Razorpay payment gateway
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This application is under development
+## Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Next13, TypeScript, Tailwind CSS, ShadCn 
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [@mahesh](https://www.github.com/mahesh863)
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/mahesh863/ecom-client/blob/main/images/home.png?raw=true)
+
+![App Screenshot](https://github.com/mahesh863/ecom-client/blob/main/images/wishlist.png?raw=true)
+
+
+![App Screenshot](https://raw.githubusercontent.com/mahesh863/ecom-client/main/images/cart.png)
+
+![App Screenshot](https://github.com/mahesh863/ecom-client/blob/main/images/shipping-details.png?raw=true)
+
+
+![App Screenshot](https://github.com/mahesh863/ecom-client/blob/main/images/payment-page.png?raw=true)
+
+
+
+![App Screenshot](https://github.com/mahesh863/ecom-client/blob/main/images/patment-success.png?raw=true)
+
+
